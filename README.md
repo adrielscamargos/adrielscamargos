@@ -3,8 +3,8 @@
 ## Minhas redes sociais
 
 
-[![lINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriel-silva-camargos-58916a336)
-[![WHATSAPP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) https://wa.me/[5561981671136]
+[![lINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/adriel-silva-camargos-58916a336)
+[![WHATSAPP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) 5561981671136
 
 adrielsilvacamargos@gmail.com
 
